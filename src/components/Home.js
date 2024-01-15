@@ -8,9 +8,9 @@ const Home=()=>{
     return(
         <div>
             <ul>
-                <li><NavLink to={"/item/1"}>Item1</NavLink></li>
-                <li><NavLink to={"/item/2"}>Item2</NavLink></li>
-                <li><NavLink to={"/item/3"}>Item3</NavLink></li>
+                <li><NavLink to={"/item/1"}>Item 1</NavLink></li>
+                <li><NavLink to={"/item/2"}>Item 2</NavLink></li>
+                <li><NavLink to={"/item/3"}>Item 3</NavLink></li>
             </ul>
         </div>
     )
